@@ -3,7 +3,7 @@ Deep Learning project for colorizing images with convolutional neural networks u
 
 Examples of the Autoencoder with classifier arqutecture:
 
-
+![Sample 1](Image-Colorizer/results/1?raw=true "Sample1")
 
 Referencies: 
 
